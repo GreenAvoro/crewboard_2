@@ -5,7 +5,7 @@
         <div class="col-span-2 grid gap-8 mb-auto">
             <x-dashboard-tile>
                 <x-slot:title>Schedule This Week</x-slot:title>
-                <div>Some content</div>
+                <div>Some content - Updated</div>
             </x-dashboard-tile>
             <x-dashboard-tile>
                 <x-slot:title>Training Diary - Coming Soon</x-slot:title>
